@@ -66,3 +66,6 @@ Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/prese
 
 <a href="https://sosamson.com" target = "_blank" 
 rel = "noopener noreferrer">Samson Sanyaolu</a> •
+
+
+## [Follow on LinkedIn](https://linkedin.com/in/sosamsony)
