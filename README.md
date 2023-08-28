@@ -61,7 +61,7 @@ npm run preview
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
 
 
-### Don't forget to star this repository✨✨.
+## Don't forget to star this repository✨✨.
 
 
 <a href="https://sosamson.com" target = "_blank" 
